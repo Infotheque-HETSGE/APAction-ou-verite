@@ -20,7 +20,7 @@ Par ailleurs, du papier et des crayons sont à disposition pour construire des r
 - 20 cartes Vérité
 - 12 cartes Action
 - 4 cartes Jocker
-- 1 guide APA (disponible sur le site de la HETS)
+- 1 guide APA (disponible sur le site de la HETS : https://www.hesge.ch/hets/campus/infotheque)
 - 2 feuilles blanches
 - 2 crayons
 - 1 sablier
