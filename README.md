@@ -42,7 +42,7 @@ Les fichiers sont à disposition au format PPT et éditables via des outils, tel
 
 **Mise à disposition**
 
-Ce jeu est diffusé sous licence CC BY-SA. Vous pouvez le réutiliser et le modifier, en mentionnant l’Infothèque et les changements apportés. Par ailleurs, le jeu doit être partagé sous la même licence.
+Ce jeu est diffusé sous licence CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0/). Vous pouvez le réutiliser et le modifier, en mentionnant l’Infothèque et les changements apportés. Par ailleurs, le jeu doit être partagé sous la même licence.
 Pour créditer ce jeu, vous pouvez utiliser la formule suivante : "APAction ou vérité", CC BY-SA Infothèque de la HETS-Genève, màj juillet 2026
 
 **Contact**
